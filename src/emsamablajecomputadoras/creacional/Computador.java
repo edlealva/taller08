@@ -87,11 +87,7 @@ public class Computador {
     public void setCoolerExterno(boolean coolerExterno) {
         this.coolerExterno = coolerExterno;
     }
-    
-    
-
-      
-    
+        
     public String especificacionesTecnicas(){
         return "Especificiaciones Técnicas:\n"
                +"Modelo : "+modelo+"\n"
