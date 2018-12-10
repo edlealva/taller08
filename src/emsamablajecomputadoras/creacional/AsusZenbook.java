@@ -17,6 +17,10 @@ public class AsusZenbook extends ConstructorComputador {
 	@Override
 	public void componentes() {
 		// TODO Auto-generated method stub
+		pc.setMarca("Asus");
+		pc.setModelo("Zenbook");
+		pc.setRam(16);
+		pc.setAlmacenamiento(500);
 		
 	}
 
