@@ -17,6 +17,10 @@ public class AsusROGE extends ConstructorComputador {
 	@Override
 	public void componentes() {
 		// TODO Auto-generated method stub
+		pc.setMarca("Asus");
+		pc.setModelo("ROGE");
+		pc.setRam(32);
+		pc.setAlmacenamiento(1000);
 		
 	}
 
