@@ -11,5 +11,6 @@ public abstract class ConstructorComputador {
 	}
 	public abstract void mainboard();
 	public abstract void SistemaOperativo();
+	public abstract void componentes();
 
 }
